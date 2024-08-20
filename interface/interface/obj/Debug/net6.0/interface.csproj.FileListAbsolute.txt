@@ -1,0 +1,4 @@
+C:\Users\Muhammad Rafay\source\repos\interface\interface\obj\Debug\net6.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Rafay\source\repos\interface\interface\obj\Debug\net6.0\interface.AssemblyInfoInputs.cache
+C:\Users\Muhammad Rafay\source\repos\interface\interface\obj\Debug\net6.0\interface.AssemblyInfo.cs
+C:\Users\Muhammad Rafay\source\repos\interface\interface\obj\Debug\net6.0\interface.csproj.CoreCompileInputs.cache
